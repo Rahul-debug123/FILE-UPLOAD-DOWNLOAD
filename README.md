@@ -11,4 +11,4 @@ For more details follow the documentation [https://firebase.google.com/](https:/
     `npm start`
 
 # About this Project
-This project contains the cloud storage features, which uses AWS S3 buucket to store them. It uses uses gmail authentiication to authenticate users and allow them to store their files, download and delete them.
+This project contains the cloud storage features, which uses AWS S3 bucket to store them. It uses gmail authentiication to authenticate users and allow them to store their files, download and delete them.
